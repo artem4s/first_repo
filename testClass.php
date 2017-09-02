@@ -9,6 +9,7 @@
 class testClass
 {
     const lol = 1;
+    const kok = 3;
 
     private $one = 1;
     private $HELLOworld = 2;
