@@ -8,6 +8,8 @@
  */
 class testClass
 {
+    const lol = 1;
+
     private $one = 1;
     private $HELLOworld = 2;
 
