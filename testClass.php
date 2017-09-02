@@ -8,8 +8,20 @@
  */
 class testClass
 {
-    const lol = 1;
-    const kok = 3;
+    const TY = 1;
+
+    private function superMethod () {
+        if (1==1){
+
+        }
+
+        if ( 1 == 1 )
+        {
+
+        }
+
+
+    }
 
     private $one = 1;
     private $HELLOworld = 2;
