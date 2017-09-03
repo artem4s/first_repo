@@ -9,8 +9,9 @@
 class testClass
 {
     const TY = 1;
+    const wrong = 0;
 
-    private function superMethod () {
+    public function superMethod ($a=1,$b=2) {
         if (1==1){
 
         }
@@ -19,11 +20,12 @@ class testClass
         {
 
         }
-
-
     }
 
     private $one = 1;
     private $HELLOworld = 2;
 
 }
+
+$a = new testClass();
+$a->superMethod(3,4);
