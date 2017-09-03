@@ -8,6 +8,6 @@
  */
 class SecondClass
 {
-    const FOO = 'boo';
+    const foo = 'boo';
 
 }
