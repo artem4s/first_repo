@@ -6,7 +6,7 @@
 class SecondClass
 {
     /**
-     * @var array
+     * @var object
      */
     private $foo = '';
 
