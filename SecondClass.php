@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: artmas
- * Date: 03.09.2017
- * Time: 10:07
+ * Class SecondClass
  */
 class SecondClass
 {
-    const foo = 'boo';
+
+    public function go() {
+        $line = "this is line \r\n And new line god damm";
+    }
 
 }
