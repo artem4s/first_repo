@@ -10,7 +10,7 @@ class SecondClass
         $line = "this is line \r\n And new line god damm";
         $a = 'hello! \r\n !!!';
         $b = "big text
-            and new line";
+            \r\nand new line";
     }
 
 }
