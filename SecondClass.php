@@ -7,6 +7,7 @@ class SecondClass
 {
     /**
      * @var string
+     * @baz lal
      *
      * делает что то прое
      */
