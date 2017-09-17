@@ -6,7 +6,9 @@
 class SecondClass
 {
     /**
-     * @var testClass
+     * @var string
+     *
+     * do something good
      */
     private $foo = '';
 
