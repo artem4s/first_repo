@@ -2,6 +2,11 @@
 
 /**
  * Class SecondClass
+ *
+ * WOOOW
+ *
+ *
+ * AAAAAAAAAA
  */
 class SecondClass
 {
