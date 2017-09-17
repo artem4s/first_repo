@@ -8,7 +8,7 @@ class SecondClass
     /**
      * @var string
      *
-     * do something good
+     * делает что то прое
      */
     private $foo = '';
 
